@@ -1,0 +1,76 @@
+$base-font-size: 16px;
+$base2-font-size: 38px;
+$border-radio:20px;
+$base3-color-title:#f4bd76;
+$background1-color:#1a1b1f;
+$color-letra:#ffffff80;
+
+.conoc_content {
+    background-color: $base3-color-title;
+    margin: 0;
+}
+
+.subtitulo__container {
+    background: $background1-color;
+    height: 250px;
+    margin: 2rem auto;
+    width: 90%;
+    text-align: center;
+    display: table;
+    border-radius: $border-radio;
+
+
+    .subtitulo1 {
+        color: $base3-color-title;
+        font-size: $base2-font-size;
+        text-align: center;
+        margin: 0;
+        display: table-cell;
+        vertical-align: middle;
+    }
+}
+
+.cparrafo {
+    background: $background1-color;
+    height: 400px;
+    margin: 2rem auto;
+    width: 90%;
+    text-align: center;
+    display: table;
+    color: $color-letra;
+    border-radius: $border-radio;
+
+    .las {
+        font-weight: bold;
+        font-size: 18px;
+        color: $base3-color-title;
+    }
+
+    .parra1 {
+        margin: 0;
+        display: table-cell;
+        vertical-align: middle;
+        line-height: 1.9;
+        font-size: $base-font-size;
+    }
+}
+
+.poli {
+    background: $background1-color;
+    height: 250px;
+    margin: 2rem auto;
+    width: 90%;
+    text-align: center;
+    display: table;
+    border-radius: $border-radio;
+
+    .lista_historia {
+        margin: 0;
+        display: table-cell;
+        vertical-align: middle;
+        list-style: none;
+        line-height: 1.9;
+        font-size: $base-font-size;
+        color: $color-letra;
+    }
+}

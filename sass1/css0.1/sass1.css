@@ -1,0 +1,68 @@
+.conoc_content {
+    background-color: #f4bd76;
+    margin: 0;
+}
+
+.subtitulo__container {
+    background: #1a1b1f;
+    height: 250px;
+    margin: 2rem auto;
+    width: 90%;
+    text-align: center;
+    display: table;
+    border-radius: 20px;
+}
+
+.subtitulo__container .subtitulo1 {
+    color: #f4bd76;
+    font-size: 38px;
+    text-align: center;
+    margin: 0;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.cparrafo {
+    background: #1a1b1f;
+    height: 400px;
+    margin: 2rem auto;
+    width: 90%;
+    text-align: center;
+    display: table;
+    color: #ffffff80;
+    border-radius: 20px;
+}
+
+.cparrafo .las {
+    font-weight: bold;
+    font-size: 18px;
+    color: #f4bd76;
+}
+
+.cparrafo .parra1 {
+    margin: 0;
+    display: table-cell;
+    vertical-align: middle;
+    line-height: 1.9;
+    font-size: 16px;
+}
+
+.poli {
+    background: #1a1b1f;
+    height: 250px;
+    margin: 2rem auto;
+    width: 90%;
+    text-align: center;
+    display: table;
+    border-radius: 20px;
+}
+
+.poli .lista_historia {
+    margin: 0;
+    display: table-cell;
+    vertical-align: middle;
+    list-style: none;
+    line-height: 1.9;
+    font-size: 16px;
+    color: #ffffff80;
+}
