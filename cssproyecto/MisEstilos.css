@@ -194,6 +194,7 @@ body{
      font-size: 22px;
      line-height: 32px;
      margin-bottom: 60px;
+     font-weight: bold;
  }
 
  .copy_section--modifier{
@@ -243,7 +244,7 @@ body{
  }
 
  .titulo_carta{
-     font-size: 40px;
+     font-size: 28px;
      color:#fff;
     margin-bottom: 8px;
  }
@@ -525,6 +526,10 @@ body{
     align-items: center;
     margin-right: 20px;
     margin-bottom: 16px;
+}
+
+.color_iten{
+    color: #039be5;
 }
 
 .download__logo{
